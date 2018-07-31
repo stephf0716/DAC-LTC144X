@@ -19,7 +19,7 @@ U 1 1 5B5FA897
 P 5000 3850
 F 0 "U1" H 4650 4300 50  0000 C CNN
 F 1 "LTC1446" H 4750 4200 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm_Socket" H 5800 3550 50  0001 C CNN
+F 2 "" H 5800 3550 50  0001 C CNN
 F 3 "http://cds.linear.com/docs/en/datasheet/1446fa.pdf" H 5800 3550 50  0001 C CNN
 	1    5000 3850
 	1    0    0    -1  
