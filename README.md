@@ -1,3 +1,3 @@
-# kicad-LTC1446
+# kicad-LTC144X
 
-Simple breakout board for LTC1446 DAC
+Simple breakout board and arduino library for LTC144X DAC
